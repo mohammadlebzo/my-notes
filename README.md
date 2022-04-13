@@ -8,7 +8,7 @@ I am currently looking to expand my knowledge in **Python** programming to bette
 
 ## Good Developer Mindset
 
-In order to finish projects with the *best possible quality* the developer **must** be under a **certain mindset** to ensure the best possible outcome, and I'll be mentioning now some the key points of this mindset in no particular order:
+In order to finish projects with the *best possible quality* the developer **must** be under a **certain mindset** to ensure the best possible outcome, and I'll be mentioning now some of the key points of this mindset in no particular order:
 
 - **The developer must understand the purpose of the project / software before starting to develop it**.
 - **The developer should try as much as possible to keep the code clean and clear**.
